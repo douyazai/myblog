@@ -39,9 +39,10 @@
 }
 .title:hover .small-title{
   opacity: 0.5;
+  margin-left: 20px;
 }
 .small-title{
-  transition: opacity 1s;
+  transition: opacity 1s,margin-left 2s;
 }
 .header{
   background: #d56464;
