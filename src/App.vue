@@ -4,7 +4,6 @@
     <!--<show-blogs></show-blogs>-->
     <nav-header></nav-header>
     <router-view></router-view>
-    z
   </div>
 </template>
 
